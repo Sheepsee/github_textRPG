@@ -1,6 +1,4 @@
-THIS WAS INTENDED FOR IOS!
+You have to run it in IDLE, or other python IDEs.
+If any of you guys/gals make it an executable, I'll be happy to add it in!
 
-
-I might make another version WITHOUT the sound, so you guys/gals dont have to get rid of it yourselfs.
-
-Alright, hope you enjoy!
+Thank you for downloading this, enjoy!
